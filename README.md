@@ -12,3 +12,5 @@ scroll down until you see versions then select yours
 make sure when installing check the boxes use admin privalages and add to path
 <img width="772" height="467" alt="image" src="https://github.com/user-attachments/assets/19f9493a-f69f-4334-9b9c-20807e4550ee" />
 
+
+commands include open youtube, open google, open gmail and open amazon
