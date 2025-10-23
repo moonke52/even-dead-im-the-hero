@@ -31,4 +31,4 @@ except ImportError:
     print("PyAudio installation failed. You may need additional dependencies like Visual C++ Redistributable.")
 END
 
-pause
+pip install openai
