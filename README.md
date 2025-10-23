@@ -15,3 +15,9 @@ make sure when installing check the boxes use admin privalages and add to path
 
 commands include open youtube, open google, open gmail and open amazon
 for more go to issues and i will add it
+
+
+
+
+     www.youtube.com/@Veraxity
+credits to his video that helped me
