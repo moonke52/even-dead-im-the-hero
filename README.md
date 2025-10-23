@@ -3,5 +3,6 @@ edith glasses script
 requires python 3.10
 
 
-        python.com
+
+         https://www.python.org/downloads/release/python-3109/
 
