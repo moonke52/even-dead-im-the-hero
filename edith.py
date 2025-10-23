@@ -89,19 +89,10 @@ if __name__ == '__main__':
             speak("Google Mail is open now.")
             time.sleep(5)
             
-        elif 'open veeam' in statement:
-            webbrowser.open_new_tab("veeam.com")
-            speak("veeam is open now.")
-            time.sleep(5)
-            
-        elif 'open the business' in statement:
-            webbrowser.open_new_tab("topsocalproperties.com")
-            speak("open now.")
-            time.sleep(5)
-            
         elif 'open amazon' in statement:
             webbrowser.open_new_tab("amazon.com")
             speak("amazon open.")
             time.sleep(5)
             
+
        
